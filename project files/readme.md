@@ -16,7 +16,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/ManiSai-code/Book-Nest---where-stories-nestle.git
+git clone https://github.com/madhu1-tech/Doc-Spot-Seamless-appointment-booking-for-health
 cd BookNest
 Install Backend Dependencies
 
